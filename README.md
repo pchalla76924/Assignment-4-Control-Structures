@@ -5,7 +5,6 @@
 - `EmployeeScheduler.java` - Java implementation
 - `sample_output.txt` - sample Python run
 - `java_sample_output.txt` - sample Java run
-- `Assignment4_Report.docx` - submission report with explanation, references, and output screenshot
 
 ## Run Python
 `python3 employee_scheduler.py`
