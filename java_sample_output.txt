@@ -1,0 +1,64 @@
+Enter M for manual preferences or press Enter for sample preferences: 
+FINAL WEEKLY SCHEDULE
+==========================================================
+
+Monday
+----------------------------------------------------------
+Morning     : [Ava, Deepa]
+Afternoon   : [Henry, Kiara]
+Evening     : [Carlos, Fatima]
+
+Tuesday
+----------------------------------------------------------
+Morning     : [Liam, Fatima]
+Afternoon   : [Jason, Grace]
+Evening     : [Kiara, Ethan]
+
+Wednesday
+----------------------------------------------------------
+Morning     : [Henry, Ethan]
+Afternoon   : [Isabella, Fatima]
+Evening     : [Deepa, Ava]
+
+Thursday
+----------------------------------------------------------
+Morning     : [Jason, Deepa]
+Afternoon   : [Henry, Kiara]
+Evening     : [Liam, Fatima]
+
+Friday
+----------------------------------------------------------
+Morning     : [Isabella, Liam]
+Afternoon   : [Ava, Deepa]
+Evening     : [Henry, Kiara]
+
+Saturday
+----------------------------------------------------------
+Morning     : [Ben, Kiara]
+Afternoon   : [Liam, Fatima]
+Evening     : [Grace, Deepa]
+
+Sunday
+----------------------------------------------------------
+Morning     : [Ava, Jason]
+Afternoon   : [Henry, Ethan]
+Evening     : [Isabella, Liam]
+
+EMPLOYEE WORKLOAD
+----------------------------------------------------------
+Ava         : 4 day(s)
+Ben         : 1 day(s)
+Carlos      : 1 day(s)
+Deepa       : 5 day(s)
+Ethan       : 3 day(s)
+Fatima      : 5 day(s)
+Grace       : 2 day(s)
+Henry       : 5 day(s)
+Isabella    : 3 day(s)
+Jason       : 3 day(s)
+Kiara       : 5 day(s)
+Liam        : 5 day(s)
+
+VALIDATION
+----------------------------------------------------------
+Schedule passed all validation checks.

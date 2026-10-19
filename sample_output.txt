@@ -1,0 +1,65 @@
+EMPLOYEE WEEKLY SCHEDULER
+Enter M for manual preferences or press Enter for sample preferences: 
+FINAL WEEKLY SCHEDULE
+==========================================================
+
+Monday
+----------------------------------------------------------
+Morning     : Jason, Deepa
+Afternoon   : Ethan, Henry
+Evening     : Fatima, Carlos
+
+Tuesday
+----------------------------------------------------------
+Morning     : Liam, Isabella
+Afternoon   : Grace, Ava
+Evening     : Henry, Kiara
+
+Wednesday
+----------------------------------------------------------
+Morning     : Ethan, Kiara
+Afternoon   : Liam, Carlos
+Evening     : Deepa, Grace
+
+Thursday
+----------------------------------------------------------
+Morning     : Deepa, Jason
+Afternoon   : Kiara, Ben
+Evening     : Liam, Fatima
+
+Friday
+----------------------------------------------------------
+Morning     : Liam, Isabella
+Afternoon   : Deepa, Jason
+Evening     : Ethan, Kiara
+
+Saturday
+----------------------------------------------------------
+Morning     : Ben, Ethan
+Afternoon   : Carlos, Liam
+Evening     : Jason, Ava
+
+Sunday
+----------------------------------------------------------
+Morning     : Jason, Ava
+Afternoon   : Kiara, Ethan
+Evening     : Carlos, Fatima
+
+EMPLOYEE WORKLOAD
+----------------------------------------------------------
+Ava         : 3 day(s)
+Ben         : 2 day(s)
+Carlos      : 4 day(s)
+Deepa       : 4 day(s)
+Ethan       : 5 day(s)
+Fatima      : 3 day(s)
+Grace       : 2 day(s)
+Henry       : 2 day(s)
+Isabella    : 2 day(s)
+Jason       : 5 day(s)
+Kiara       : 5 day(s)
+Liam        : 5 day(s)
+
+VALIDATION
+----------------------------------------------------------
+Schedule passed all validation checks.
